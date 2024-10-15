@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Coleman/h1>
+<h1 align="center">Hi, I'm Coleman</h1>
 <h3 align="center">A recent graduate from Iowa State University</h3>
 
 <h3 align="left">Languages and Tools:</h3>
